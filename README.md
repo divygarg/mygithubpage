@@ -1,1 +1,1 @@
-# mygithubpage
+# interactive portfolio using JavaScript
