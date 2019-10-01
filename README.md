@@ -1,1 +1,1 @@
-# interactive portfolio using JavaScript
+# Interactive portfolio using JavaScript.
