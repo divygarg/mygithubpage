@@ -1,1 +1,2 @@
-# interactive portfolio using JavaScript
+#Interactive online portfolio using JavaScript
+HTML+CSS+JavaScript

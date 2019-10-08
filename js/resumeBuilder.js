@@ -27,7 +27,7 @@ var education = {
 			"name": "Birla Institute of Technology",
 			"graduated": "2017",
 			"location": "Jaipur, India",
-			"major": "COmputer Science",
+			"major": "Computer Science",
 			"degree": "Bachelor of Engineering"
 		},
 			
